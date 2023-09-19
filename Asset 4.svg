@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Fredoka-Medium, Fredoka;
+        font-variation-settings: 'wght' 500, 'wdth' 100;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        font-size: 159.91px;
+      }
+
+      .cls-4 {
+        font-size: 30px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(51.74 197.81)"><tspan class="cls-3" x="0" y="0">10</tspan><tspan class="cls-4" x="154.47" y="0">/15</tspan></text>
+    <circle class="cls-1" cx="150" cy="150" r="150"/>
+  </g>
+</svg>
